@@ -1,0 +1,14 @@
+{
+    "name": "cburyta/example-vendor",
+    "type": "library",
+    "description": "Example for a presentation",
+    "keywords": ["example"],
+    "homepage": "http://buryta.com",
+    "license": "MIT",
+    "authors": [
+        {"name": "Chris Buryta", "email": "chris@buryta.com"}
+    ],
+    "require": {
+        "php": ">=5.3.2"
+    }
+}
